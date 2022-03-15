@@ -1,20 +1,20 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Golam Rabbani</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from Bangladesh.</h3>
+<h3 align="center">I'm a passionate MERN Stack Developer from Bangladesh.</h3>
 
 
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **[Chimbut It](https://chimbukit.com)**
 
-- 🌱 I’m currently learning **Next js, **
+- 🌱 I’m currently learning **Next js**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](portfolio link here)** -->
 
-- 📫 How to reach me **golamrabbani227417@gmail.com**
+- 📫 How to reach me **rabbani.cse.eub@gmail.com**
 
 ## 🚀 Languages and Tools:
 
