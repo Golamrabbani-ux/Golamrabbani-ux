@@ -36,10 +36,3 @@ MongoDB, PostgreSQL
 
 VS-code, Git, Github, Chrome dev tools, Netlify, Firebase Authnication, Postman
 
-## Let's Connect
-
-Let's connect, collaborate, and code our way to a brighter future together! Feel free to reach out, and let's embark on this incredible journey of innovation and discovery.
-
-[![GitHub](https://img.shields.io/github/followers/rabbanidev?label=Follow&style=social)](https://github.com/rabbanidev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/golamrabbani1)
-[![Website](https://img.shields.io/badge/Website-Visit-blue)](https://golam-rabbani.netlify.app)
